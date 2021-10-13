@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.cd6596df.chunk.js",
+    "main.js.map": "/static/js/main.cd6596df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dee97342.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dee97342.js.map",
+    "static/js/2.13a52aaa.chunk.js": "/static/js/2.13a52aaa.chunk.js",
+    "static/js/2.13a52aaa.chunk.js.map": "/static/js/2.13a52aaa.chunk.js.map",
+    "static/js/3.52084743.chunk.js": "/static/js/3.52084743.chunk.js",
+    "static/js/3.52084743.chunk.js.map": "/static/js/3.52084743.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.13a52aaa.chunk.js.LICENSE.txt": "/static/js/2.13a52aaa.chunk.js.LICENSE.txt",
+    "static/media/logo-sm-login.ec686af4.png": "/static/media/logo-sm-login.ec686af4.png",
+    "static/media/sm-logo-h-responsive.4d9b24c2.png": "/static/media/sm-logo-h-responsive.4d9b24c2.png",
+    "static/media/sm-logo-h.26cda2b5.png": "/static/media/sm-logo-h.26cda2b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee97342.js",
+    "static/js/2.13a52aaa.chunk.js",
+    "static/js/main.cd6596df.chunk.js"
+  ]
+}
